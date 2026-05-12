@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 markdown: kramdown
+
 kramdown:
   math_engine: mathjax
-  mathjax_config:
-    tex2jax:
-      inlineMath: [['$', '$'], ['\\(', '\\)']]
+  syntax_highlighter: rouge # コードブロックのハイライト用（推奨）
