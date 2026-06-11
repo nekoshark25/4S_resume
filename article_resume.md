@@ -1,681 +1,203 @@
-# S1 特別演習
----
-- [S1 特別演習](#s1-特別演習)
-  - [Introduce](#introduce)
-    - [1. 「The Eurasian subtropical～weather and climate over Asia」](#1-the-eurasian-subtropicalweather-and-climate-over-asia)
-      - [1.1 要点](#11-要点)
-    - [2. 「There is evidence that～which have yet to be explained.」](#2-there-is-evidence-thatwhich-have-yet-to-be-explained)
-      - [2.1 要点](#21-要点)
-    - [3. 「Anthropogenic aerosols affect～circulation and mid-latitude dynamics.」](#3-anthropogenic-aerosols-affectcirculation-and-mid-latitude-dynamics)
-      - [3.1 要点](#31-要点)
-    - [4 「In this study, we investigate～this weakening trend (see Methods).」](#4-in-this-study-we-investigatethis-weakening-trend-see-methods)
-      - [4.1 要点](#41-要点)
-  - [Results](#results)
-    - [1. 「Weakening trend ~ and subpolar jets over East Asia」](#1-weakening-trend--and-subpolar-jets-over-east-asia)
-      - [1.1 用語](#11-用語)
-      - [1.2 Methods 1](#12-methods-1)
-      - [1.3 要点](#13-要点)
-      - [1.4 解説](#14-解説)
-    - [2. 「Attribution of the observe～common factors may be responsible」](#2-attribution-of-the-observecommon-factors-may-be-responsible)
-      - [2.1 用語](#21-用語)
-      - [2.2 Methods 2](#22-methods-2)
-      - [2.3 要点](#23-要点)
-    - [3. 「To identify the contribution～ESWJ over the recent decades (Fig. 2)」](#3-to-identify-the-contributioneswj-over-the-recent-decades-fig-2)
-      - [3.1 要点](#31-要点-1)
-      - [3.2 解説](#32-解説)
-    - [4. 「Quantitative comparisons between～ of −0.24 to 0.21 decade$^{-1}$」](#4-quantitative-comparisons-between-of-024-to-021-decade-1)
-      - [4.1 用語](#41-用語)
-      - [4.2 要点](#42-要点)
-      - [4.3 解説](#43-解説)
-    - [5. 「Results based on individua～primarily driven by AER changes.」](#5-results-based-on-individuaprimarily-driven-by-aer-changes)
-      - [5.1 要点](#51-要点)
-    - [6 「Physical mechanisms. During thet～being very weak (Fig. 4a, d, g, j).」](#6-physical-mechanisms-during-thetbeing-very-weak-fig-4a-d-g-j)
-      - [6.1 用語](#61-用語)
-      - [6.2 直訳的要点](#62-直訳的要点)
-      - [6.3 物理メカニズムの連鎖](#63-物理メカニズムの連鎖)
-      - [6.4 専門用語・重要表現の整理](#64-専門用語重要表現の整理)
-    - [7. 「Observations and reanalyses 〜 and precipitation is weak」](#7-observations-and-reanalyses--and-precipitation-is-weak)
-      - [7.1 直訳的要点](#71-直訳的要点)
-      - [7.2 解説・論文の流れにおける位置づけ](#72-解説論文の流れにおける位置づけ)
-      - [7.3 専門用語・重要表現の整理](#73-専門用語重要表現の整理)
-    - [8. 「The inhomogeneous SAT trends 〜 in the upper troposphere (Figs. 5c, i, 2b, f).」](#8-the-inhomogeneous-sat-trends--in-the-upper-troposphere-figs-5c-i-2b-f)
-      - [8.1 直訳的要点](#81-直訳的要点)
-      - [8.2 解説・物理メカニズムの核心](#82-解説物理メカニズムの核心)
-      - [8.3 専門用語・重要表現の整理](#83-専門用語重要表現の整理)
-    - [9 「In response to changes～lower stratosphere (Fig. 5f).」](#9-in-response-to-changeslower-stratosphere-fig-5f)
-      - [9.1 要点](#91-要点)
-      - [9.2 解説](#92-解説)
-      - [9.3 用語](#93-用語)
-    - [10 「Despite the fact that～weakening of the ESWJ.」](#10-despite-the-fact-thatweakening-of-the-eswj)
-      - [10.1 要点](#101-要点)
-      - [10.2 解説](#102-解説)
-      - [10.3 用語](#103-用語)
-    - [11 「To further assess the importance～middle troposphere2.」](#11-to-further-assess-the-importancemiddle-troposphere2)
-      - [11.1 要点](#111-要点)
-      - [11.2 解説](#112-解説)
-      - [11.3 用語](#113-用語)
-    - [12 「The inter-model variation～hence ESWJ.」](#12-the-inter-model-variationhence-eswj)
-      - [12.1 要点](#121-要点)
-      - [12.2 解説](#122-解説)
-      - [12.3 用語](#123-用語)
-    - [13 「Relationship between trends ～the eastern](#13-relationship-between-trends-the-eastern)
-      - [13.1 要点](#131-要点)
-      - [13.2 解説](#132-解説)
-      - [13.3 用語](#133-用語)
-    - [14 「Supplementary Fig. 11 shows ～circulation in recent decades.」](#14-supplementary-fig-11-shows-circulation-in-recent-decades)
-      - [14.1 要点](#141-要点)
-      - [14.2 解説](#142-解説)
-      - [14.3 用語](#143-用語)
-  - [Discussion](#discussion)
-    - [1 「Our results have demonstrated～rapid warming of the Arctic」](#1-our-results-have-demonstratedrapid-warming-of-the-arctic)
-      - [1.1 要点](#11-要点-1)
-      - [1.2 解説](#12-解説)
-      - [1.3 用語](#13-用語)
-    - [2 「It is highly likely～impacts on regional weather.」](#2-it-is-highly-likelyimpacts-on-regional-weather)
-      - [2.1 要点](#21-要点-1)
-      - [2.2 解説](#22-解説)
-      - [2.3 用語](#23-用語)
-    - [3 「Our finding that anthropogenic～over the last four decades.」](#3-our-finding-that-anthropogenicover-the-last-four-decades)
-      - [3.1 要点](#31-要点-2)
-      - [3.2 解説](#32-解説-1)
-      - [3.3 用語](#33-用語)
-
-<div style="page-break-before: always;"></div>
-
-## Introduce
----
-### 1. 「The Eurasian subtropical～weather and climate over Asia」
-#### 1.1 要点
-研究対象であるESWJの定義と特徴は以下の通りである。
-
-- **物理的定義**: 対流圏上層から成層圏下層（高度約12km付近）を西から東へ流れる狭い強風帯。
-- **夏季の構造**: 北緯40°付近を中心に吹く。チベット高原の地形的影響により、西アジアと東アジアの上空で風速が**極大（maxima）**に達する（$25 \text{ m/s}$ 以上）。
-- **発生メカニズム**: 熱帯と亜熱帯の温度差（**南北温度勾配：MTG**）が主動力源である。
-- **重要性**: ロスビー波の伝播をガイドする役割を持ち、アジア全域の気象・気候（猛暑や豪雨など）に直接的な影響を与える。
----
-### 2. 「There is evidence that～which have yet to be explained.」
-#### 2.1 要点
-- **弱体化の社会的影響**:
-  ESWJの弱体化は、温帯低気圧の減少や異常気象の停滞、中央アジアの乾燥化など、深刻な気象影響と結びついている。
-- **既存説の限界（GHG説）**:
-  温室効果ガス（GHG）による「北極増幅」は下層の南北温度勾配（MTG）を減らしジェットを弱めるが、同時に熱帯上空の昇温はジェットを強める方向に働く。この**「綱引き（Tug-of-war）」**状態があるため、GHGのみでは近年の急激な弱体化を十分に説明できない。
-- **本研究の独自性**:
-  - 「帯状平均（地球一周の平均）」では隠されてしまう**「地域的なバリエーション（特にユーラシア地域）」**に注目し、これまで見過ごされてきた**人為起源エアロゾル（AER）**の影響を詳細に解析する。
----
-### 3. 「Anthropogenic aerosols affect～circulation and mid-latitude dynamics.」
-#### 3.1 要点
-- **相互作用のプロセス**:
-  人為起源エアロゾルは「放射（直接反射・吸収）」と「雲（凝結核としての役割）」の2つの経路を通じて、地域のエネルギー収支を変化させる。
-- **空間的な不均一性（Inhomogeneity）**:
-  温室効果ガスとの最大の違いは、排出源（アジアなど）の近くに集中して分布する点にある。このため、水平・鉛直方向の温度勾配を局所的に変化させやすい。
-- **排出パターンの歴史的転換**:
-  - **1980年代以前**: 欧米が主要な排出源。
-  - **1980年代以降**: 規制により欧米で減少、工業化によりアジア・アフリカで急増。
-  - **影響**: この排出源の「東へのシフト」が、ユーラシア上空の大気力学（Mid-latitude dynamics）に構造的な変化をもたらしたと考えられる。
----
-### 4 「In this study, we investigate～this weakening trend (see Methods).」
-#### 4.1 要点
-
-- 本研究の目的
-  過去40年間における夏季ESWJの弱体化傾向を明らかにし、その変化に対して人為起源エアロゾルがどのような影響（exert an influence）を及ぼしたのかを実証することを目的とする。
-
-- 解析手法
-  1. **観測データの解析**:
-    - **対象データ**: 4種類の再解析データ（ERA5, NCEP, JRA55, MERRA2）。
-    - **期間**: 1979/1980年〜2019年の夏季。
-    - **内容**: 西風急流のトレンド（変化の傾向）を統計的に抽出。
-  2. **モデルによる要因特定**:
-    - **対象データ**: CMIP6（第6期結合モデル相互比較計画）のマルチモデルシミュレーション。
-    - **手法**: 「全強制力（ALL）」、「エアロゾル（AER）」、「温室効果ガス（GHG）」、「自然要因（NAT）」を個別に変動させた実験結果を比較し、弱体化の主因を特定する（Detection and Attribution解析）。
- 
-<div style="page-break-before: always;"></div>
-
-## Results
-### 1. 「Weakening trend ~ and subpolar jets over East Asia」
-
-#### 1.1 用語
-- ESWJ：Eurasian subtropical westerly jet
-- ESWJ index：averaging the zonal wind speed over the region shown in Fig. 1a
-- pressure coodinate：$p$座標系
-- SAT：surface ar temperature
-- equivalent barotropic vertical structure：等価順圧垂直構造
-  - 簡単に言うと、高度が変わっても風のパターンや渦の構造が大きく変わらず、鉛直方向に重なっている状態を指します。
-  - つまり、ジェットの弱体化が上空だけで起きているのではなく、対流圏全体にわたって同様の構造を持って弱まっていることを示唆しています。
-
-#### 1.2 Methods 1
-- Mann-Kendall nonparametic methodとは
-1. データ準備
-時系列データ $(x_1, x_2, \dots, x_n)$ を、観測された順序通りに並べます。
-2. 仮説の設定
-* **帰無仮説 ($H_0$)**: データに傾向（トレンド）はない（データは独立で同一の分布に従う）。
-* **対立仮説 ($H_1$)**: データに有意な傾向（上昇または下降）がある。
-3. 検定統計量 $S$ の算出
-すべてのデータペア $(x_i, x_j)$（ただし $i < j$）の組み合わせについて、符号関数 $\operatorname{sgn}$ を用いてその差を合計します。
-$$S = \sum\limits_{i=1}^{n-1} \sum_{j=i+1}^{n} \operatorname{sgn}(x_j - x_i)$$
-> **判定の目安:** $S > 0$ は上昇傾向、$S < 0$ は下降傾向を示唆します。
-4. 統計量 $S$ の分散と $Z$ 値の計算
-サンプルサイズ $n$ が 10 以上の場合、統計量 $S$ は近似的に正規分布に従います。
-分散 $Var(S)$ の計算
-$$Var(S) = \frac{n(n-1)(2n+5)}{18}$$
-*(※同一値（タイ）がある場合は補正項が必要ですが、基本式は上記となります)*
-5. 標準化統計量 $Z$ の計算
-連続性の補正を行い、以下の式で $Z$ 値を求めます。
-
-$$
-Z =
-\begin{cases}
-\frac{S-1}{\sqrt{Var(S)}} & (S > 0) \\
-0 & (S = 0) \\
-\frac{S+1}{\sqrt{Var(S)}} & (S < 0)
-\end{cases}
-$$
-6. p値の算出と判定
-有意水準（一般的に $\alpha = 0.05$ や $0.01$）に基づき、標準正規分布表から $p$ 値を算出します。
-
-> **判定ルール**: $p$ 値 $<$ 有意水準 であれば、帰無仮説 $H_0$ を棄却し、**「統計的に有意な傾向がある」**と判断します。
- 
-#### 1.3 要点
-
-1. ジェットの位置（Climatology）
-ジェット気流は、地上から約12km上空（200 hPa）の、ちょうど日本やユーラシアの中緯度（北緯 40°）あたりで最も強く吹いています。
-
-1. 相当順圧（Equivalent barotropic）な構造
-これは、風の弱まり方が「上空だけでなく、地上付近まで同じようなパターンで垂直に続いている」ということを意味します。この構造は、大気の大規模な反応（力学的な変化）であることを示しています。
-
-1. 弱体化のスピード
-10年ごとに約 $0.48 \text{ m s}^{-1}$ ずつ遅くなっています。40年間の合計では $2 \text{ m s}^{-1}$ ほど風が遅くなっており、これはもともとの強さから見ると**約7%ダウン**したことになります。
-
-1. 「北側」は強くなっている
-  - 興味深いのは、南側の亜熱帯ジェット（北緯 40°）が弱まる一方で、さらに北の亜寒帯ジェット（北緯 60°）は強まっているという点です。これは、空の流れの「通り道」が北にシフトしたり、構造自体が変化したりしていることを表しています。
-#### 1.4 解説
-> - climatology：平年値(季節による)
-> - index：平均値(時間による)
-> - equivalent barotropic vertical structure：等価順圧垂直構造
-> **鉛直シアがない**→水平方向の温度場・密度場が平行
-> 高さ方向でどこでも同じ変化が見れるくらいの意味
-
-
- 
- 
----
-
-### 2. 「Attribution of the observe～common factors may be responsible」
-
-#### 2.1 用語
-- GHG：greenhouse gas
-- AER：anthoropogenic aerosol
-- NAT：natural force
-  - 太陽放射と火山起源
-- piControl：pre-industrial control(産業革命前の条件で長期間固定して走らせた計算（比較用の基準）。)
-- MMM：multimodel mean
-- cross-section：断面図
-- CMIP6：Coupled Model Intercomparison Project Phase 6
-  - 世界中のモデルを統合しているもの
-- DAMIP：Detection and Attribution Model Intercomparison Project
-- MTG：meridional temperature gradient
-- SSR：surface solar radiation
-- SAT：surface air temperature
-- historical：過去再現実験
-
-#### 2.2 Methods 2
-- SSR gradient index
-  - 夏季ユーラシア気候値ジェット気流の核の南側と北側に位置する、領域（北緯20°–40°、東経0°–90°）と領域（北緯40°–60°、東経0°–90°）の間の下向き地表日射量のエリア平均された差として定義される
-- SAT gradient index
-  - 領域（北緯20°–40°、東経30°–120°）と領域（北緯40°–60°、東経30°–120°）の間の温度差として定義される
-- Downstream influence
-  - 下流への影響。偏西風などによって、ある場所で発生した大気汚染物質（エアロゾル）が東側（下流）へ運ばれ、そこで気温などに影響を及ぼすことを指します。
-- ERF：effective radiative forcing
-- 温度風平衡の式を鉛直積分することで計算した東西風の傾向の緯度ー高度断面図を計算することで、シミュレーションの結果が正しいことを物理的に確かめようとしている。
-> $$
-> \dfrac{du}{dp}=\dfrac{R}{fp}\left(\dfrac{dT}{dy}\right)
-> $$
-
-#### 2.3 要点
-1. モデルの再現性（Climatological values）
-  - モデルが算出したジェットの平均的な強さ（約 $24\text{ m s}^{-1}$）は、実際の観測ベースのデータ（約 $27\text{ m s}^{-1}$）より少し弱いものの、十分に「現実のジェット気流」を再現できていると判断しています。
-2. 空間構造の一致
-   - モデルの中でも、現実（図1）と同じように「ジェットの核の部分で風が弱まり、その北側（60°N）で風が強まる」というパターンが再現されました。
-4. 弱体化の場所
-   - 特に風が弱まっているのは、上空高いところ（対流圏上層）の、ジェットの核よりも少し赤道寄り、かつ少し下のエリアです。
-4. 「共通の要因」への期待
-   - 「モデル」と「現実（再解析）」でこれだけ形が似ているということは、モデルの中で起きている変化の原因（人間活動など）が、現実の世界で起きていることの正体である可能性が極めて高い、という論理展開になっています。
-
----
-### 3. 「To identify the contribution～ESWJ over the recent decades (Fig. 2)」
-#### 3.1 要点
-1. 要因別の寄与の切り分け（Single Forcing）
-    - ジェット弱体化の原因を探るため、GHG（温室効果ガス）、AER（エアロゾル）、NAT（自然要因）をそれぞれ個別に検証。
-2. GHGとNATの「無実」
-    - GHG: 影響は限定的。むしろジェット上部や赤道側で風を強める方向に働き、観測された「核の弱体化」とはパターンが異なる（図2c, d）。
-    - NAT: 変化は極めて小さく、長期的なトレンドの原因とは言えない（図2g, h）。
-3. AER（エアロゾル）が「真犯人」
-    - AERのみを変化させたシミュレーションの結果（図2e, f）が、観測データおよび全強制力（ALL）の結果と最もよく一致した。
-    - 水平構造（200 hPa）と鉛直断面構造の両方で「良好な一致」を示 しており、物理的な裏付けが得られた。
-4. モデル間の一致と確信
-    - 個別の全モデルが、AER強制力に対して一貫して「弱体化トレンド」と「相当順圧構造」を示した。
-    - モデル間のバラつき（強弱の差）はあるものの、北緯60度での風の強化も含め、全体的な構造変化の方向性は共通している。
-#### 3.2 解説
-> - anomaly：偏差(気候値からの差)
----
-### 4. 「Quantitative comparisons between～ of −0.24 to 0.21 decade$^{-1}$」
-#### 4.1 用語
-- PDF：カーネル密度推定
-  - 確率密度関数を推定する手法
-#### 4.2 要点
-1. **定量的なトレンドの比較**:
-   - 現実（再解析）: $-0.48 \text{ m s}^{-1} \text{/decade}$
-   - AERシミュレーション: **$-0.36 \pm 0.04 \text{ m s}^{-1} \text{/decade}$**
-   - AERの結果はALL（全体）の結果と酷似しており、AERが弱体化の支配的要因である。
-2. **GHGのブレーキ効果**: GHGはジェットを**強める**働き（$+0.12$）をしているが、AERの弱める力（$-0.36$）がそれに勝っているため、トータルで弱体化が進行している。
-3. **統計的結論**: PDF分析により、観測されたトレンドは「自然変動（piControl）」の範囲を大きく逸脱しており、人間活動（特にエアロゾル）がESWJ弱体化の主要な駆動力（Primary driver）であることが統計的に裏付けられた。
-#### 4.3 解説
-> - **detective**：piControlとなにか外部強制力を加えてものとのシミュレーション結果を比較して原因を見つけるもの
----
-### 5. 「Results based on individua～primarily driven by AER changes.」
-#### 5.1 要点
-1. **個別メンバーの挙動（図3b）**:
-   個々のシミュレーション結果は平均値よりバラつきが大きいものの、全体としては一貫して「弱体化」の傾向を示しており、結果の頑健性が確認された。
-2. **自然変動による説明の困難さ（図3c）**:
-   人為的な攪乱のない気候（PI）において、現状のような急激な弱体化が起こる確率は**わずか 6.5%** である。これは、近年の変化が「自然のゆらぎ」の範囲を逸脱していることを示唆する。
-3. **エアロゾルによる支配的影響**:
-   ALL（全強制力）およびAER（エアロゾル）シミュレーションでは、観測されたようなトレンドが発生する確率が圧倒的に高い。
-4. 総合結論（Conclusion）
-   本研究では図1・図2に示された「空間的な弱体化パターンの一致」と、図3に示された「定量的なトレンドの整合性および統計的な有意性」を総合すると、過去40年間にわたる**ユーラシア亜熱帯ジェット（ESWJ）の弱体化は、主として人為起源エアロゾルの排出（AER）によって引き起こされた**と結論付けられる。
-
----
-
-### 6 「Physical mechanisms. During thet～being very weak (Fig. 4a, d, g, j).」
-#### 6.1 用語
-- AOD：エアロゾル光学的厚さ
-- Detection：Picotrolと強制力を入れた元を比較して、外的要因が必要かどうかを検定
-
-
-#### 6.2 直訳的要点
-- **背景事実（排出パターンの変化）**:
-  過去40年間で温室効果ガス（GHG）濃度は一貫して増加した。同時期に、人為起源エアロゾル前駆体の排出パターンにも大きな変化があり、**ヨーロッパと北米で減少し、南アジア・東アジア・アフリカで増加**した。
-- **AOD（エアロゾル光学的厚さ）への波及**:
-  排出量の変化に伴い、AODも北米・ヨーロッパで減少し、東アフリカ・中東・南アジア・東アジアで増加した（MERRA2再解析データおよびDAMIPのAERシミュレーションの双方で確認）。
-- **SSR（下向き地表日射量）への影響**:
-  CMIP6のALL（全強制力）シミュレーションにおいて、SSRのトレンドは**顕著なダイポール（双極子）パターン**を示した。具体的には、ヨーロッパと北アジアで正のトレンド（日射量増）、アフリカ・南アジア・東アジアで負のトレンド（日射量減）となった。
-- **主因の特定**:
-  このSSRのダイポールパターンは**圧倒的に（predominantly）AERの強制力に起因**しており、GHGや自然要因（NAT）によるトレンドは非常に弱いことが確認された。
-
-#### 6.3 物理メカニズムの連鎖
-論文が提示する「ESWJ弱体化」に至る因果関係の第一段階がここで示されています。
-
-1. **排出源の東方シフト**: 工業化の進展等により、エアロゾル排出の中心が欧米からアジア・アフリカへ移動。
-2. **空の不透明化（AOD上昇）**: アジア上空でエアロゾルが増加し、大気が濁る。
-3. **日射量の減少（SSR低下）**: 濁った大気が太陽光を遮る（日傘効果）ため、アジアの地表に届く日射量が減少。一方、空が綺麗になった欧州では日射量が増加。
-4. **ダイポールパターンの形成**: ユーラシア大陸上で「西は日射が増え、東は日射が減る」という非対称なエネルギー分布が生まれる。これがのちの温度勾配や風の弱体化の根本原因となる。
-
-#### 6.4 専門用語・重要表現の整理
-- **Downward surface solar radiation (SSR)**: 下向き地表日射量。太陽から地表に直接到達するエネルギー。
-- **Striking dipole pattern**: 顕著なダイポール（双極子）パターン。ある領域内で「正（プラス）」と「負（マイナス）」の対照的な変化がくっきりと分かれている状態。
-- **Predominantly attributed to ~**: 〜に圧倒的（支配的）に起因する。主要な原因を一つに特定し、他の要因（本件ではGHGやNAT）の影響を退ける際に使う強力な表現。
-
-### 7. 「Observations and reanalyses 〜 and precipitation is weak」
-
-#### 7.1 直訳的要点
-- **気温（SAT）観測とモデルの比較**:
-  観測および再解析データは、北アフリカ、南ヨーロッパ、中東、東アジアにかけての大きな温暖化傾向と、北米の一部や中央アジアにおける弱い温暖化傾向を示している。ALL（全強制力）モデルもこれと似た温暖化傾向を再現しているが、北米と中央アジアの温暖化については**過大評価（overestimated）**している。
-- **気温変化の要因（GHG vs AER）**:
-  GHG（温室効果ガス）の強制力は広範囲にわたる地表気温（SAT）の上昇をもたらす。しかし、AER（エアロゾル）が日射量（SSR）を変化させた結果、地表気温に**「空間的に不均一な（spatially inhomogeneous）」トレンド**が生じた。具体的には、ユーラシア中高緯度で温暖化が強まり、熱帯アフリカ・南アジア・東アジアで温暖化が抑えられている。
-- **降水量の変化と要因**:
-  ALLシミュレーションにおける降水量は、アフリカ、南アジア、東アジア北部で増加している。この降水量の変化については、アフリカでは**エアロゾル（AER）が支配的（dominant）**だが、アジアでは**GHGとAERの両方が重要な因子**となっている。
-- **NAT（自然要因）の影響**:
-  地表気温（SAT）および降水量のどちらに対しても、NAT強制力の影響は弱い。
-
-#### 7.2 解説・論文の流れにおける位置づけ
-前セクションで確認した「エアロゾルによる日射量（SSR）の変化」が、**実際の気温（SAT）と降水量にどう反映されたか**を検証しているセクションです。
-
-1. **「不均一な温暖化」の犯人はエアロゾル**:
-   温室効果ガス（GHG）だけなら地球全体がのっぺりと均一に温まります。しかし現実の気温変化にムラ（不均一性）があるのは、アジアなど特定地域でエアロゾルが日傘となって「温暖化を邪魔している（reduced warming）」ためです。
-2. **温度勾配への布石**:
-   ユーラシア大陸の「北側（中高緯度）は温暖化が進み、南側（アジア等）は温暖化が抑えられる」というこの不均一な気温トレンドが、南北の温度差（MTG：Meridional Temperature Gradient）を縮小させ、結果的に西風ジェット気流（ESWJ）を弱める直接的な原因に繋がっていきます。
-3. **降水メカニズムの複雑さ**:
-   気温の変化はほぼエアロゾルで説明がつきますが、「アジアの降水量」に関してはエアロゾルだけでなく温室効果ガス（GHG）の影響も無視できない、と正確に切り分けて論じています。
-
-#### 7.3 専門用語・重要表現の整理
-- **Surface Air Temperature (SAT)**: 地表気温。気候変動の文脈で最もよく使われる指標の一つ。
-- **Overestimated**: 過大評価されている。（第4節の解説にもあった通り、モデルの計算値が現実の観測値よりも強く出すぎている状態を自己申告しています）。
-- **Spatially inhomogeneous**: 空間的に不均一な。GHGの「広範な（widespread）」影響と対比させて、エアロゾルによる地域的なムラを強調するキーワードです。
-- **Dominant**: 支配的な、主要な。「predominantly」と同様に、複数ある要因の中で最も影響力が大きいものを指します。
-
-### 8. 「The inhomogeneous SAT trends 〜 in the upper troposphere (Figs. 5c, i, 2b, f).」
-
-#### 8.1 直訳的要点
-- **対流圏における不均一な温度変化**:
-  ALL・AERシミュレーションで見られる不均一な地表気温（SAT）トレンドは、対流圏全体の不均一な温度変化と連動している。具体的には、**中高緯度（対流圏下・中層）では温暖化が強化**され、**熱帯域（ユーラシア大陸上）では温暖化が相対的に弱い**。
-- **MTG（南北温度勾配）の減少**:
-  このような「北が温まり、南が温まらない」温度トレンドは、対流圏の大部分において**南北温度勾配（MTG）が減少**していることを意味する。この減少トレンドは、北緯30°〜50°の中緯度帯でピーク（極大）に達している。
-- **ESWJ弱体化への帰結（結論）**:
-  **温度風平衡（thermal wind balance）**の法則により、このMTGの減少は「東西風の鉛直シアの減少」をもたらし、結果として対流圏上層における**ESWJ（東アジア亜熱帯西風ジェット）の弱体化**を引き起こしている。
-
-#### 8.2 解説・物理メカニズムの核心
-この段落は、論文の**「最も重要な力学メカニズム」の完全な結論部分**です。エアロゾル（AER）による日射量の変化が、最終的にどうやって上空のジェット気流を弱めるのか、その一連のプロセスが見事に繋がっています。
-
-**【論文が主張するメカニズムの全貌】**
-1. **原因**: アジア上空のエアロゾル増加により、日射量（SSR）が減少（日傘効果）。
-2. **不均一な温度変化**: その結果、南側（熱帯・アジア）は温暖化が抑えられ、北側（中高緯度）は相対的に強く温暖化する。
-3. **温度勾配（MTG）の減少**: 南北の「温度差」が小さくなる。
-4. **温度風平衡による風の弱体化**: 「南北の温度差が大きいほど、上空の西風が強まる」という気象学の基本法則（温度風関係）に従い、温度差が小さくなったことで、上層の西風（ESWJ）が維持できなくなり弱体化する。
-
-
-
-#### 8.3 専門用語・重要表現の整理
-- **Meridional temperature gradient (MTG)**: 南北温度勾配。緯度方向（南北方向）における温度の傾きや差のこと。この論文の最重要キーワードの一つ。
-- **Thermal wind balance**: 温度風平衡。大気中の「南北の温度差」と「風の高度変化（鉛直シア）」が力学的に釣り合っている状態のこと。
-- **Vertical shear**: 鉛直シア。高度による風の強さや向きの違い。
-- **Zonal wind**: 東西風。緯度圏に沿って吹く風（ここでは西から東へ吹くジェット気流）。
-
-### 9 「In response to changes～lower stratosphere (Fig. 5f).」
-
-#### 9.1 要点
-このセクションでは、主因であるエアロゾル（AER）と比較し、**温室効果ガス（GHG）がジェットに与える影響**を解説している。
-
-1. **対流圏下層・中層：一様な温暖化（Uniform Warming）**
-   - GHGによる気温上昇は、ユーラシア大陸全体で比較的**「一様（uniform）」**に起こる。
-   - そのため、南北の温度差（MTG）に顕著な変化は生まれず、結果として東西風（ジェット）を変化させるトレンドも弱い（図5e, f, 2d）。
-
-2. **対流圏上層：熱帯の加熱とMTGの増大**
-   - 対流圏上層では、熱帯域での**対流活動（Convection）と潜熱放出（Latent heat release）**が強化されるため、赤道に近い上空が強く温まる。
-   - これにより、中緯度との温度差（MTG）はむしろ**増大（increased）**する。
-
-3. **ジェットへの影響：上層での「強化」**
-   - 温度風平衡に基づき、この上層でのMTG増大は、対流圏上層から成層圏下層にかけての**東西風を強める（enhanced zonal wind）**方向に働く（図5f）。
-
-#### 9.2 解説
-> **「GHGとAERの対照的な役割」**
-> - **AER（エアロゾル）**: アジア付近を局所的に冷やし、南北温度差を減らしてジェットを**弱める**。
-> - **GHG（温室効果ガス）**: 熱帯上空を温め、南北温度差を増やしてジェットを**強める**。
-> 
-> 観測データでジェットの弱体化が顕著に見られるのは、**AERによる弱体化効果が、GHGによる強化効果を打ち消し、さらに上回っているため**である。
-> 温暖化すると水蒸気量が増えて潜熱開放などにより上空ほど温暖化が進む
-
-#### 9.3 用語
-- **latent heat release**: 潜熱放出。水蒸気が凝結して雲になる際に放出される熱。熱帯上空の主要な加熱源。
-- **convection**: 対流。
-- **uniform**: 一様な、均一な。AERの「不均一（inhomogeneous）」な影響と対照的な性質を指す。
-- **lower stratosphere**: 成層圏下層。
-
-### 10 「Despite the fact that～weakening of the ESWJ.」
-
-#### 10.1 要点
-このセクションでは、なぜ「気温」の変化がGHGに似ているのに、「ジェット（風）」の変化はAER（エアロゾル）によって決まるのか、その物理的な力学関係を総括している。
-
-1. **見かけの矛盾（Superficially similar）**
-   - 全強制力（ALL）モデルにおける「気温（SAT）」の変化パターンは、一見するとGHGシミュレーションの結果と最もよく似ている（Supplementary Figs. 6, 7）。
-   - しかし、**ESWJ（ジェット気流）を含む対流圏の風の変化**については、GHGよりも**AERシミュレーションの結果にはるかに似ている**。
-
-2. **支配要因は「MTG（南北温度勾配）」**
-   - その理由は、風の変化が「全体の平均気温」ではなく、**「対流圏の南北温度勾配（MTG）の変化」によって支配（governed）されている**からである。
-   - このMTGの変化（トレンド）は、GHGシミュレーションよりもAERシミュレーションにおいて、**はるかに顕著（much more pronounced）**に現れている。
-
-3. **降水量（Precipitation）の役割**
-   - ALLとAERのシミュレーション間では、熱帯の降水パターンにいくつかの差異が見られる（Fig. 4c, i）。
-   - しかし、この差異がESWJの弱体化に与える影響は限定的であり、**降水量の変化はESWJ弱体化の主要な要因ではない**ことが示唆された。
-
-#### 10.2 解説
-> **「なぜ気温がGHG似でも、風はAERの影響を受けるのか？」**
-> 
-> 気球に例えると：
-> - **GHG**は地球全体の温度（気球全体の高度）を一様に押し上げます。
-> - **AER**は、場所によって温めたり冷やしたりするため、温度の「傾き（MTG）」を急激に変えます。
-> 
-> **風（ジェット）を動かす力は「温度そのもの」ではなく「温度の傾き」**であるため、一見気温への寄与が大きく見えるGHGよりも、傾きを激変させたAERがジェット弱体化の「主犯」であると断定できる、という論理です。
-
-#### 10.3 用語
-- **Superficially**: 表面上は、一見したところ。
-- **Governed by**: 〜によって支配されている、決定されている。
-- **Pronounced**: 顕著な、はっきりとした。
-- **Implication**: 含意、示唆されること。
-- **Exhibit**: （特徴や差異を）示す、呈する。
-
-### 11 「To further assess the importance～middle troposphere2.」
-
-#### 11.1 要点
-このセクションでは、これまで主張してきた「MTG（南北温度勾配）の変化がジェット弱体化の主因である」という仮説を、力学理論（温度風平衡）を用いて定量的に検証している。
-
-1. **検証方法：理論値と計算値の比較**
-   - **実際のトレンド**: シミュレーションから直接得られた東西風の線形トレンド（図2右列）。
-   - **理論的なトレンド**: 温度風平衡の式に基づき、MTGのトレンドから計算で導き出した東西風のトレンド（図5右列）。
-   - これら2つのデータの間の**残差（residual differences）**を算出することで、理論の正確さを評価した。
-
-2. **残差（Residual）の評価**
-   - すべてのケースにおいて、この**残差の大きさは非常に小さかった**（Supplementary Fig. 8）。
-   - これは、温度風（熱的要因）による寄与分に比べて、それ以外の要因が無視できるほど小さいことを意味する。
-
-3. **物理的結論**
-   - 以上の結果から、ESWJのトレンドは、**対流圏の下層および中層におけるMTGの変化によって、支配的に（primarily）決定されている**ことが裏付けられた。
-
-#### 11.2 解説
-> **「パズルがピタリと一致した」**
-> 
-> 著者たちは、「風の変化」という現象を2通りの方法で算出しました。
-> 1. モデルが弾き出した「生の結果」
-> 2. 「温度差がこれだけ変わったなら、物理法則（温度風平衡）に従えば風はこれだけ変わるはずだ」という「理論上の計算値」
-> 
-> この2つを突き合わせた結果、**「ズレ（残差）」がほとんどなかった**ため、「やはりジェットの変化は温度勾配（MTG）の変化で100%説明がつくのだ」という強力な物理的証拠（エビデンス）を提示したことになります。
-
-#### 11.3 用語
-- **Residual differences**: 残差、計算値と理論値のズレ。
-- **Linear trends**: 線形トレンド。一定期間における一定の変化傾向。
-- **Thermal wind contribution**: 温度風による寄与。南北の温度差がもたらす風速変化の分量。
-- **Primarily determined by**: 主に〜によって決定されている。
-
-
-### 12 「The inter-model variation～hence ESWJ.」
-
-#### 12.1 要点
-このセクションでは、異なる気候モデル間の「ばらつき」を統計的に分析することで、**「エアロゾル → 日射量 → 気温勾配 → ジェット」**という因果関係の鎖を検証している。
-
-1. **各プロセス間の高い相関関係**
-   - **ESWJ vs SAT（地表気温）**: 
-     ESWJ指数の弱体化トレンドと、地表気温の南北勾配（SAT gradient）のトレンドとの間には、**0.93** という極めて高い相関がある。
-   - **ERF（放射強制力） vs SSR（地表日射量）**:
-     各モデルのエアロゾル実効放射強制力（ERF）と、地表日射量勾配（SSR gradient）の相関も **0.97** と非常に高い。
-
-2. **因果関係の強固さ**
-   - これらの高い相関は、MMM（マルチモデル平均）で示された弱体化メカニズムが、個別のモデルレベルでも一貫して働いていることを証明している。
-
-3. **不確実性の要因（SATとSSRの相関）**
-   - 一方で、SAT（気温）勾配とSSR（日射量）勾配の間の相関は **0.57** と相対的に低い。
-   - これは、日射の変化が気温の変化に変換される過程において、**陸面過程（Land surface）の表現**などのモデルごとの違いが、ばらつきの原因となっていることを示唆している。
-
-#### 12.2 解説
-> **「因果関係の裏付けとモデルのクセ」**
-> 
-> 著者たちは、因果関係の各ステップを相関係数でチェックしています。
-> - **「エアロゾルが日射を遮る（相関0.97）」**：ほぼ完璧に一致。
-> - **「温度差が変われば風が変わる（相関0.93）」**：物理法則（温度風平衡）通り。
-> 
-> しかし、**「日射が変われば気温が変わる（相関0.57）」**の部分だけ少し数字が低くなっています。これは、地面の状態（湿り具合や植生など）の扱いがモデルによって異なるため、「日射が減ってもどれくらい冷えるか」にはモデルごとの個性が反映されやすい、という冷静な分析を行っています。
-
-#### 12.3 用語
-- **Inter-model variation**: モデル間のばらつき。
-- **Ensemble means**: アンサンブル平均。同一モデルで条件を少しずつ変えて複数回計算した結果の平均。
-- **Effective Radiative Forcing (ERF)**: 実効放射強制力。エアロゾルなどが地球の放射収支を変化させる直接的な能力。
-- **Land surface representation**: 陸面過程の表現。地表面の熱や水分のやり取りをモデル内でどう計算しているか。
-
-
-### 13 「Relationship between trends ～the eastern
-hemisphere sector.」
-
-#### 13.1 要点
-このセクションでは、「地球全体の風の変化（帯状平均）」と「ユーラシア特有の変化」を比較し、先行研究が指摘する「北極の温暖化」の影響と、本論文が主張する「エアロゾル」の影響を切り分けている。
-
-1. **先行研究の視点（Zonal Mean）**
-   - 1979年以降、夏季の帯状平均循環（地球を一周した平均）が弱まっていることが指摘されている。
-   - その原因として、GHG増加に伴う**「北極の増幅した温暖化」**が有力視されてきた。
-
-2. **データの分解（Decomposition）による新発見**
-   - 帯状平均で見られる「ジェット赤道側（南側）の弱体化」は、主に**ユーラシアおよび東半球セクター**の変化を反映している。
-   - 一方、北緯60度付近（ジェットの北側）で見られる別の弱体化は、**非ユーラシアおよび西半球（北大西洋など）**に特有の現象である。
-
-3. **「平均値」に隠された異なるメカニズム**
-   - 先行研究（Coumou et al.）が注目した「北緯35°–70°Nの平均」には、性質の異なる2つの現象が混ざっている。
-     - **西半球側**: 北大西洋におけるジェットの赤道側へのシフト。
-     - **東半球側（ユーラシア）**: 本論文が扱うESWJの弱体化（エアロゾル主導）。
-
-#### 13.2 解説
-> **「主犯は地域によって異なる」**
-> 
-> これまでの研究では「地球全体の風が弱まっているのは、北極が温まって温度差がなくなったからだ（GHGのせいだ）」と一括りにされがちでした。
-> しかし、詳しくデータを切り分けると（Closer inspection）：
-> - **大西洋側**の弱体化は、確かにジェットが南にズレるような動きをしている。
-> - **ユーラシア側**の弱体化は、この論文が示した通り「エアロゾルによる温度勾配（MTG）の変化」が直接の引き金になっている。
-> 
-> つまり、「地球平均で語ると、ユーラシアで起きているエアロゾルの重大な影響を見落としてしまう」という警告を鳴らしています。
-
-#### 13.3 用語
-- **Zonal mean**: 帯状平均（緯度線に沿って地球を一周平均した値）。
-- **Equatorward / Poleward side**: 赤道側（南側） / 極側（北側）。
-- **Decomposition**: 分解。全体を地域ごとのデータに分けること。
-- **Reflects / Reflection**: 反映している。〜の結果として現れている。
-
-
-### 14 「Supplementary Fig. 11 shows ～circulation in recent decades.」
-
-#### 14.1 要点
-このセクションでは、最新の気候モデル群（CMIP6）を用いて、これまでの分析結果を裏付けるとともに、従来の「GHG主因説」に明確な反論を述べている。
-
-1. **CMIP6モデルによる再現**
-   - **ユーラシアの影響**: CMIP6のマルチモデル平均（MMM）は、対流圏上層におけるジェット赤道側の弱体化を再現している。
-   - **AERの寄与**: この特徴は、これまでの議論通り「AER（エアロゾル）強制力に対するユーラシア部門の応答」に帰属（attributable）できる。
-
-2. **大西洋側との違い**
-   - **再現されないシフト**: 観測で見られた「大西洋上のジェットの赤道側へのシフト」は、CMIP6のモデル平均では再現されなかった。
-   - **推測される理由**: これは現実世界の「内部変動（偶然のゆらぎ）」であるか、あるいは現在のモデルでは捉えきれない強制応答である可能性がある。
-
-3. **「GHG主因説」への反論**
-   - **先行研究との対立**: 先行研究（Coumou et al. 14）は「GHGによる北極の急激な温暖化が夏季循環を弱めている」と主張したが、CMIP6の結果はこれを支持（support）していない。
-   - **結論**: 近年の夏季帯状平均循環の変化を説明するには、**GHG強制力よりもAER強制力の方が重要であった**ことが示唆された。
-
-#### 14.2 解説
-> **「通説（GHG説）への挑戦」**
-> 
-> ここは論文のクライマックスの一つです。
-> これまで「温暖化（GHG）のせいで北極が温まり、風が弱まった」と信じられてきた通説に対し、最新モデルの結果を突きつけています。
-> - **「もしGHGが主因なら、モデルでもそう出るはずだが、実際にはAERを入れた時だけ現実と同じ風の弱まり方をする」**
-> つまり、「温暖化は確かに起きているが、ここ40年の『風の変化』の主犯は、実は空気の汚れ（エアロゾル）だったのだ」というどんでん返しを論証しています。
-
-#### 14.3 用語
-- **Attributable to**: 〜に起因する、〜のせいである。
-- **Internal variability**: 内部変動。外部からの強制力（GHGやAER）ではなく、地球システムが自然に持っているゆらぎ。
-- **Forced response**: 強制応答。外部要因によって引き起こされる決まった反応。
-- **Not support the suggestion**: （先行研究の）示唆を支持しない。
-
-## Discussion
-### 1 「Our results have demonstrated～rapid warming of the Arctic」
-
-#### 1.1 要点
-このセクションは論文全体の総括（Discussion）の導入であり、人間活動（特にエアロゾル）が大陸規模の大気循環に与えた影響の大きさを強調している。
-
-1. **強固な弱体化の事実**
-   - 1979年から2019年の40年間において、夏季のESWJ（ユーラシア亜熱帯ジェット）が確実に弱体化していることを証明した。
-   - CMIP6のシミュレーションにより、その主因（primary driver）が**「人為起源エアロゾルの排出」**であるという決定的な証拠が得られた。
-
-2. **人為的影響のスケールと特異性**
-   - この変化は、人間活動がいかにして**大陸規模（continental scale）**の大気循環を変えうるかを示す顕著な事例である。
-   - 特に、ESWJが温室効果ガス（GHG）よりも、**エアロゾルによって遥かに強く影響を受けてきた**という点は非常に重要である。
-
-3. **全球への波及と既存説への疑義**
-   - ESWJの変化は、地球一周の平均的な風（帯状平均）の変化に対しても重要な寄与をしている。
-   - 今回得られた「エアロゾル主因説」は、「北極の急激な温暖化が原因である」とする従来の説（Coumou et al.等）とは真っ向から対立する結論となった。
-
-#### 1.2 解説
-> **「気候変動の真犯人の特定」**
-> 
-> ここでの著者のメッセージは非常に強力です。
-> - **結論**: 夏のユーラシアの空を流れるジェット気流を弱めた真犯人は、二酸化炭素（温室効果ガス）ではなく、工場や車から出る汚染物質（エアロゾル）だった。
-> - **物理的意義**: 人間が排出した物質が、単に地球を温めるだけでなく、大陸を横断する「風の道」というダイナミックな仕組みまで変えてしまったことを証明しています。
-> 
-> これまでの気候学のトレンドであった「北極が温まったから風が弱まった」という説に対し、「それは一部の地域（大西洋など）の話であり、ユーラシアを中心とした広範囲ではエアロゾルこそが鍵だ」と、議論に一石を投じています。
-
-#### 1.3 用語
-- **Compelling evidence**: 説得力のある（反論の余地がない）証拠。
-- **Anthropogenic aerosol precursor**: 人為起源のエアロゾル前駆体。
-- **Continental scale**: 大陸規模。
-- **Zonal extension**: 帯状（東西方向）への広がり。
-
-
-### 2 「It is highly likely～impacts on regional weather.」
-
-#### 2.1 要点
-このセクションでは、ESWJの弱体化がもたらした具体的な「異常気象」への影響と、将来エアロゾルが減少した際の予測について述べている。
-
-1. **これまでの異常気象への影響**
-   - ESWJの弱体化は、地域的な天候に深刻な影響を与えてきた可能性が高い。
-   - **具体的な現象**:
-     - 温帯低気圧の勢力・発生数の減少。
-     - 中緯度地域における夏季の**異常気象（熱波など）の長期化**。
-     - 中央アジアにおける降水量の減少トレンド。
-
-2. **今後の展望と「逆転」の可能性**
-   - **予測される変化**: 今後数十年間で、アジアの人為起源エアロゾル排出量は減少に転じる一方、GHG（温室効果ガス）濃度は上昇し続ける。
-   - **ジェットの再強化**: 本研究の結果に基づけば、エアロゾルが減ることで**ESWJは再び強まる可能性が高い**。
-   - **天候への波及**: ジェットが強まることで、これまでの弱体化がもたらしていた天候への悪影響が、一部「逆転（解消）」する可能性がある。
-
-3. **今後の課題**
-   - ESWJと地域気象の間の動的な関係（ダイナミクス）をより深く理解するために、さらなる研究が必要である。
-
-#### 2.2 解説
-> **「ジェットの復活と天気の変化」**
-> 
-> ここでは、研究の結論を「私たちの生活」に引き寄せて解説しています。
-> これまで「空気が汚れていた（エアロゾルが多かった）」ことで、風が弱まり、そのせいで熱波が居座ったり乾燥が進んだりしていました。
-> しかし、皮肉なことに、**「空気が綺麗になる（エアロゾルが減る）」ことで、弱まっていた風が再びパワーを取り戻す**という予測を立てています。
-> これは、今まで経験してきた異常気象のパターンが、今後数十年でガラリと変わる（逆転する）可能性があることを示唆しています。
-
-#### 2.3 用語
-- **Extratropical cyclones**: 温帯低気圧。
-- **Prolonged summer weather extremes**: 長期化する夏季の異常気象（停滞する熱波や干害など）。
-- **Decline / Increase**: 減少 / 増加。
-- **Reversing its impacts**: その影響を逆転させる（元の状態に戻す、あるいは反対の傾向にする）。
-
-### 3 「Our finding that anthropogenic～over the last four decades.」
-
-#### 3.1 要点
-このセクションでは、使用したCMIP6モデルの潜在的な弱点（不確実性）を認めつつも、本研究の結論がいかに揺るぎないものであるかを論理的に補強している。
-
-1. **モデルの不確実性（自己批判）**
-   - CMIP6モデルは、以下の理由から**「エアロゾルの影響を過大評価」**している可能性が指摘されている：
-     - エアロゾル放射強制力が強すぎる（CMIP5との比較）。
-     - 気候感度が高すぎる。
-     - 近年の東アジアにおけるエアロゾル減少（2006-2014年）を過小評価している。
-   - これらにより、モデル上のESWJ弱体化は、現実よりも少し強調されている可能性がある。
-
-2. **「指紋（Fingerprint）」による確信**
-   - しかし、本研究で特定された**AER強制力特有のパターン（指紋）**は非常に個性的である。
-   - 他の要因（GHGなど）では説明がつかないこの「指紋」が観測と一致している以上、モデルが改良されたとしても「エアロゾルが主因である」という根本的な結論が覆ることは考えにくい。
-
-3. **最終的な結論の再宣言**
-   - 以上の検討を踏まえ、過去40年間の夏季ESWJ弱体化の主犯は「人為起源エアロゾル」であると改めて断定している。
-
-#### 3.2 解説
-> **「モデルのクセを認めた上での、勝利宣言」**
-> 
-> ここは科学的誠実さが光る場面です。
-> 著者は「CMIP6モデルには、エアロゾルに対して敏感すぎるという『クセ』があるかもしれない」と正直に認めています。
-> 
-> しかし、そこで引き下がるのではなく、「たとえそのクセを差し引いたとしても、データに刻まれた『エアロゾル特有の犯行声明（指紋）』はあまりにも明白だ。だから、モデルが多少修正されたところで、真犯人がエアロゾルであるという事実は変わらない」と、結論の強固さをアピールしています。
-
-#### 3.3 用語
-- **Effective radiative forcing**: 実効放射強制力。物質が地球の熱収支を変える直接的な力。
-- **Climate sensitivity**: 気候感度。CO2濃度などが変化した際に、どれくらい気温が上がりやすいかの指標。
-- **Underestimate / Overestimate**: 過小評価 / 過大評価。
-- **Distinctive fingerprint**: 特徴的な指紋。ある特定の要因にしか作れない特有のデータパターンのこと。
-
-<style>
-@media print {
-  @page {
-    @bottom-center {
-      content: counter(page) " / " counter(pages);
-      font-size: 10pt;
-    }
-  }
-}
-</style>
+# S2特別演習 Resume
+
+- [S2特別演習 Resume](#s2特別演習-resume)
+  - [4.19.1 Introduction](#4191-introduction)
+      - [「A tunami is a ~ far from its source」](#a-tunami-is-a--far-from-its-source)
+        - [日本語訳](#日本語訳)
+      - [「Tsunamis have many ~ mitigating tsunami disasters.」](#tsunamis-have-many--mitigating-tsunami-disasters)
+  - [4.19.2 Recent Devastating Tsunamis](#4192-recent-devastating-tsunamis)
+    - [4.19.2.1 The 2004 Indian Ocean Tsunami](#41921-the-2004-indian-ocean-tsunami)
+      - [「A giant earthquake ~ 298 casualties in Somalia.」](#a-giant-earthquake--298-casualties-in-somalia)
+      - [「To document the 2004 ~ paleotsunami deposits (Section 4.19.4.4).」](#to-document-the-2004--paleotsunami-deposits-section-41944)
+      - [「The tsunami was instrumentally ~ on hydrophones (Hanson et al., 2007).」](#the-tsunami-was-instrumentally--on-hydrophones-hanson-et-al-2007)
+      - [「Seismological analyses of the ~ to be slow (Bilham, 2005; Layet al., 2005).」](#seismological-analyses-of-the--to-be-slow-bilham-2005-layet-al-2005)
+      - [「Satellite image analyses indicate ~ between 15 and 40 min (Singhet al., 2006).」](#satellite-image-analyses-indicate--between-15-and-40-min-singhet-al-2006)
+      - [「Using tsunami arrival times, ~ portion near the trench.」](#using-tsunami-arrival-times--portion-near-the-trench)
+      - [「Historical and paleoseismological ~ 2004 Sumatra–Andaman earthquake.」](#historical-and-paleoseismological--2004-sumatraandaman-earthquake)
+    - [4.19.2.2 The 2011 Tohoku Tsunami of Japan](#41922-the-2011-tohoku-tsunami-of-japan)
+      - [「A giant earthquake occurred off ~ Disaster’ by the Japanese Cabinet.」](#a-giant-earthquake-occurred-off--disaster-by-the-japanese-cabinet)
+      - [「The 2011 Tohoku earthquake ~ Positioning System (GPS) network.」](#the-2011-tohoku-earthquake--positioning-system-gps-network)
+      - [「The focal mechanism solution ~ near the trench axis (Fujiwara et al., 2011).」](#the-focal-mechanism-solution--near-the-trench-axis-fujiwara-et-al-2011)
+      - [「The 2011 tsunami was first ~ tsunami warnings (see Section 4.19.7.2).」](#the-2011-tsunami-was-first--tsunami-warnings-see-section-41972)
+      - [「The tsunami was also recorded ~ United States and one in Indonesia.」](#the-tsunami-was-also-recorded--united-states-and-one-in-indonesia)
+      - [「The heights of the 2011 Tohoku ~ Geospatial Information Authority of Japan.」](#the-heights-of-the-2011-tohoku--geospatial-information-authority-of-japan)
+      - [「The tsunami left sand ~ earthquakes (Namegaya and Satake, 2014; Sugawara et al., 2013).」](#the-tsunami-left-sand--earthquakes-namegaya-and-satake-2014-sugawara-et-al-2013)
+      - [「Tsunami models indicate that ~ tsunami inundation in the Sendai plain.」](#tsunami-models-indicate-that--tsunami-inundation-in-the-sendai-plain)
+  - [4.19.3 Other Examples](#4193-other-examples)
+      - [「In this section, other ~ followed by prehistoric tsunamis.」](#in-this-section-other--followed-by-prehistoric-tsunamis)
+    - [4.19.3.1 Historical Tsunamis](#41931-historical-tsunamis)
+      - [4.19.3.1.1 The 1998 Papua New Guinea tsunami](#419311-the-1998-papua-new-guinea-tsunami)
+      - [4.19.3.1.2 The 1993 Hokkaido tsunami](#419312-the-1993-hokkaido-tsunami)
+      - [4.19.3.1.3 The 1960 and 2010 Chilean tsunamis](#419313-the-1960-and-2010-chilean-tsunamis)
+        - [前半](#前半)
+        - [後半](#後半)
+      - [4.19.3.1.4 The 1958 Lituya Bay tsunami](#419314-the-1958-lituya-bay-tsunami)
+      - [4.19.3.1.5 The 1946 Aleutian tsunami](#419315-the-1946-aleutian-tsunami)
+      - [4.19.3.1.6 The 1896 and 1933 Sanriku tsunamis](#419316-the-1896-and-1933-sanriku-tsunamis)
+      - [4.19.3.1.7 The 1883 Krakatoa tsunami](#419317-the-1883-krakatoa-tsunami)
+
+## 4.19.1 Introduction
+
+#### 「A tunami is a ~ far from its source」
+##### 日本語訳
+津波は、地震、地滑り、または火山噴火のような、海底の、または沿岸の地質学的プロセスによって発生させられる、一連の海洋の重力波です。
+ほとんどの津波は、沈み込み帯に沿った大きな浅い地震に起因する海底の変位によって引き起こされます。
+珍しいケースにおいては、小惑星の衝突もまた、津波を引き起こすことができます。
+ツナミ（津波）は「港の波」を意味する日本語の単語ですが、2004年のインド洋津波以来、国際的に使用されてきています。
+津波は、深い海洋の中で形成される時は通常、小さく、そしてほとんど気づかれない（目立たない）ですが、それらが海岸や港に接近する時は、大きくなり、そして大きな損害を引き起こすことができます。
+最近の、日本の2011年東北津波は、津波が持つことができる破壊力のタイプ(ここがよくわからない)を示しました（図1）。
+2004年のインド洋津波は、津波が海洋を越える距離を移動することができ、そしてその発生源から遠く離れた場所に損害を引き起こすことができるということを実証しました。
+
+#### 「Tsunamis have many ~ mitigating tsunami disasters.」
+
+津波は、様々な分野の研究者たちによって研究されている、多くの異なる側面を持っています（バーナードおよびロビンソン、2009年）。
+それらの発生は、地震を含む地質学的プロセスにほとんど関連しています（第4.01章）。
+津波の伝播および沖合での観測は海洋学の主題であり、そして津波の特徴を理解するためには基礎的な流体力学が必要です。
+砂浜への這い上がり（駆け上がり）や湾内での共振のような、沿岸での挙動は、大部分は、沿岸技術者（海岸工学者）たちによって研究されています。
+地方および中央政府、ならびに市民防衛および緊急事態管理の職員（当局）は、運用上の津波警報を実施すること、および津波災害を軽減することに対して責任があります。
+
+## 4.19.2 Recent Devastating Tsunamis
+### 4.19.2.1 The 2004 Indian Ocean Tsunami
+巨大な地震（米国地質調査所（USGS）によると $M_w 9.1$）が、2004年12月26日にスマトラ島の沖合で発生しました（レイほか、2005年；スタインおよびオーカル、2005年；第4.18章）。この地震は、インド洋の沿岸を壊滅させた津波を発生させました（図2）；20万人以上の人々が彼らの命を失いました。死亡者および行方不明者の被害者の総数は、インドネシアにおいて最も多く（163,795人）、スリランカ（35,399人）、インド（16,389人）、そしてタイ（8,345人）における災害がそれに続きました（国際赤十字・赤新月社連盟、2005年）。地震の30分以内に、その津波はバンダ・アチェおよびスマトラ島のその他の沿岸の村々を壊滅させました（ラヴィニュほか、2009年）。その津波は、地震の後のおよそ2時間でタイ、スリランカ、およびインドの海岸に到達しました。その津波はさらに遠くへ伝播し、地震の数時間後にアフリカの東海岸に到達し、そしてソマリアにおいて298人の死傷者を引き起こしました。
+
+#### 「A giant earthquake ~ 298 casualties in Somalia.」
+
+#### 「To document the 2004 ~ paleotsunami deposits (Section 4.19.4.4).」
+
+#### 「The tsunami was instrumentally ~ on hydrophones (Hanson et al., 2007).」
+
+#### 「Seismological analyses of the ~ to be slow (Bilham, 2005; Layet al., 2005).」
+#### 「Satellite image analyses indicate ~ between 15 and 40 min (Singhet al., 2006).」
+#### 「Using tsunami arrival times, ~ portion near the trench.」
+
+#### 「Historical and paleoseismological ~ 2004 Sumatra–Andaman earthquake.」
+
+### 4.19.2.2 The 2011 Tohoku Tsunami of Japan
+#### 「A giant earthquake occurred off ~ Disaster’ by the Japanese Cabinet.」
+
+#### 「The 2011 Tohoku earthquake ~ Positioning System (GPS) network.」
+#### 「The focal mechanism solution ~ near the trench axis (Fujiwara et al., 2011).」
+#### 「The 2011 tsunami was first ~ tsunami warnings (see Section 4.19.7.2).」
+#### 「The tsunami was also recorded ~ United States and one in Indonesia.」
+#### 「The heights of the 2011 Tohoku ~ Geospatial Information Authority of Japan.」
+#### 「The tsunami left sand ~ earthquakes (Namegaya and Satake, 2014; Sugawara et al., 2013).」
+#### 「Tsunami models indicate that ~ tsunami inundation in the Sendai plain.」
+
+## 4.19.3 Other Examples
+
+#### 「In this section, other ~ followed by prehistoric tsunamis.」
+
+### 4.19.3.1 Historical Tsunamis
+
+
+
+#### 4.19.3.1.1 The 1998 Papua New Guinea tsunami
+#### 4.19.3.1.2 The 1993 Hokkaido tsunami
+#### 4.19.3.1.3 The 1960 and 2010 Chilean tsunamis
+##### 前半
+##### 後半
+#### 4.19.3.1.4 The 1958 Lituya Bay tsunami
+#### 4.19.3.1.5 The 1946 Aleutian tsunami
+#### 4.19.3.1.6 The 1896 and 1933 Sanriku tsunamis
+#### 4.19.3.1.7 The 1883 Krakatoa tsunami
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
