@@ -245,25 +245,30 @@
 外洋の深海（deep ocean）では、津波の振幅（波高）は小さくなるものの、その波形はより単純になる（すなわち、沿岸の地形的な影響を受けない）と考えられている。津波の早期検知および警報の発令を目的として、海底水圧計（bottom pressure gauges）を用いた深海での津波測定が行われてきた。圧力センサーとしては、一般に水晶振動子センサー（quartz crystal sensor）が使用される。このセンサーは、水深 $6000 \, \text{m}$ において海面水位換算で $1 \, \text{cm}$ の精度を持つ。圧力変換器（トランスデューサー）は温度に対して非常に敏感であるため、温度の測定と補正が不可欠である。さらに、センサーは海底に設置されているため、地盤の運動（地動）も記録し、海底地震計（ocean-bottom seismograph）としても機能する。地震波と津波の周波数は通常異なっているものの、これらを分離することが必要となる。
 
 ##### 「The Deep-ocean Assessment and ~ in real time (Gonza ́lez et al., 2005a).」
-
-##### 「in real time (Gonza ́lez et al., 2005a). ~ ここが変」
+深海津波評価・報告システム（Deep-ocean Assessment and Reporting of Tsunamis: DART）、または単にツナメーター（tsunameter）と呼ばれる装置は、海底水圧計を用いて水位を記録し、その信号を海洋中では水中音響通信（acoustic telemetry）を介して海面のブイへ送信し、そこから人工衛星を経由して陸上局へとリアルタイムで送信するシステムである（González et al., 2005a）。
 
 ##### 「Around Japan, more than ten ~ pressure gauges (Section 4.19.2.2).」
+日本周辺では、6本の海底ケーブルに10基以上の海底水圧計が設置されている（Hirata et al., 2002; Iwasaki et al., 1997; Okada, 1995）。津波発生地震としては比較的小規模であった2004年の紀伊半島沖地震（$M_w = 7.2$ および $7.4$）による津波は、本州および四国の南方に設置された沿岸の検潮儀だけでなく、1基のGPS波浪計と8基の海底水圧計によっても記録された（Satake et al., 2005）。2011年の東北地方太平洋沖地震による津波も、多くの海底水圧計によって記録されている（セクション 4.19.2.2）。
 
 ##### 「Other types of sensors may ~ particle motions of water can be estimated.」
+他のタイプのセンサーも、津波の検知に使用されることがある。北西太平洋にある海底地磁気観測所（seafloor geomagnetic observatory）は、2006年および2007年の千島列島沖地震（$M_w = 8.3$ および $8.1$）による津波の通過に伴う、明瞭な電磁気（EM）変動を検知した（Toh et al., 2011）。海底水圧計とは異なり、電磁気センサーはベクトル測定を可能にするため、そこから海水（流体）の水粒子運動（particle motions）を推定することができる。
 
 #### 4.19.4.1.4 Satellite observations
 ##### 「Four satellites, which were ~ et al., 2006; Smith et al., 2005 (Section 4.19.2.1).」
+海面高度（SSH：Sea-surface heights / 第3.05章参照）を監視していた4機の人工衛星が、2004年12月26日にインド洋を伝播する津波を捉えた（図3）。すなわち、地震発生から約 $2 \, \text{h}$ 後にジェイソン1（Jason-1）とトペックス・ポセイドン（TOPEX/Poseidon）、地震の $3 \, \text{h} \, 15 \, \text{min}$ 後にエンビサット（Envisat）、そして $7 \, \text{h}$ 後にアメリカ海軍のジオサット・フォローオン（GEOSAT follow-on）がそれぞれ観測に成功した（Gower, 2005; Smith et al., 2005）。インド洋におけるこの津波の最大海面高度（最大波高）は約 $0.8 \, \text{m}$ であった。人工衛星の高度測定（衛星アルティメトリ）の精度は $5 \, \text{cm}$ よりも良好であり、その空間分解能は約15分（$15 \, \text{arc minutes} \approx 27 \, \text{km}$）である。2004年の震源モデルを用いた数値シミュレーションは、これらの海面高度を良好に再現することができた（Hirata et al., 2006; Smith et al., 2005）（セクション 4.19.2.1）。
 
 #### 4.19.4.1.5 Definition of amplitude and wave heights
 ##### 「A tsunami’s amplitude is measured ~ in Figure 8.」
+津波の振幅（amplitude）は、基準値であるゼロ（静穏時の水位）からピーク、すなわち、波頭（crest / 正のピーク）または波谷（trough / 負のピーク）までの高さとして測定される。波高（wave height）は、レンジ（range）または倍振幅（double amplitude）とも呼ばれ、波谷から波頭までを測定したものである。したがって、検潮儀（tide gauges）によって測定される「津波の波高」は波谷から波頭までの高さであるのに対し、「津波の振幅」は推定された（津波がない場合の）潮位（tidal level）を基準として測定される（図8）。地震波と同様に、第一動（initial motion）が正（押し波）か負（引き波）かという情報は、津波の震源（波源）に関する情報をもたらす。例えば、図8に示されているように、2004年のインド洋大津波における第一動は、震源の東側（タイなど）では負（引き波）であったが、西側（モルディブなど）では正（押し波）であった。
 
 ### 4.19.4.2 Field Survey to Measure Tsunami Heights
 #### 4.19.4.2.1 Posttsunami surveys
 ##### 「Posttsunami field surveys are often ~ 11-year period between 1992 and 2002.」
+津波発生後の現地調査（Posttsunami field surveys）は、大規模な津波の発生後にしばしば実施される。通常は、海岸工学、地質学、地震学など、異なる専門背景を持つ様々な国の専門家たちが国際津波調査チームを結成し、被災した沿岸地域を訪れて津波の影響を記録する。これらの調査における極めて重要な要素は、沿岸に沿った「津波の高さ（tsunami heights）」を測定することである（Intergovernmental Oceanographic Commission, 2013）。後述の文章で定義されるこれら各種の高さは、建物やその他の構造物の被害、壁に残された浸水線（watermarks）、植物にみられる特徴（樹冠線（trim lines）、塩害による変色や枯死など）、および砂浜に堆積した漂流物（ごみ）のラインといった、様々な痕跡から測定される。物理的な証拠が見つからない場合、津波の高さは目撃証言に基づいて推定されるが、信頼性は低いとみなされる。位置は通常、携帯型GPS測定によって特定され、高さは伝統的な水準測量またはレーザー測量によって測定される。地域住民への聞き取り調査には、地震の地盤震動（揺れ）の程度、津波の到来時刻、波の数と周期、および持続時間なども含まれる。また、津波発生後の調査には、建物の被害や津波堆積物の記述・記録も含まれている。Synolakis と Okal（2005）は、1992年から2002年までの11年間に国際津波調査チームによって行われた15件の津波発生後現地調査についてレビューし、要約している。
 
 #### 4.19.4.2.2 Definitions of inundation and run-up heights
 ##### 「The height of a tsunami ~ is called the inundation distance (Figure 9).」
+陸上における津波の高さは、地盤面（地表）から測定された場合は浸水深（flow depth）と呼ばれ、津波到来時の海面水位を基準として測定された場合は浸水高（inundation height）と呼ばれる。津波の速度と運動エネルギーがゼロになる最大浸水地点（最高到達点）での高さは、遡上高（run-up height）と呼ばれる。測定時の潮位と津波到来時の潮位は通常は異なっているため、調査データ（測量値）には補正が必要である。浸水した津波の海面（水面）が水平（平坦）でない限り、遡上高は海岸における浸水高や水深と必ずしも一致するとは限らない。海岸から測定された水（津波）の水平浸入距離は、浸水距離（inundation distance）と呼ばれる（図9）。
 
 ### 4.19.4.3 Study of Historical Documents
 ##### 「Tsunamis and their effects documented in ~ and Morocco (Baptista et al., 1998).」
