@@ -199,52 +199,82 @@
 
 # 2回目()
 ### 4.19.3.2 Prehistoric Tsunamis
-
 #### 4.19.3.2.1 The 1700 Cascadia tsunami
 ##### 「The Cascadia subduction ~ $M_w$=8.7–9.2, respectively (Satake et al., 1996, 2003).」
+アメリカ合衆国北西部およびカナダの沿岸に位置するカスカディア沈み込み帯（Cascadia subduction zone）では、この地域の成文歴史（記録が残っている歴史）が始まった1800年代以降、巨大地震が発生していない。
+
+地質学的な研究は、過去に地震や津波が発生した証拠を示している。カスカディア沈み込み帯沿いで発生した、先史時代の巨大地震の証拠は、震源の近く（北米沿岸）からも遠く（日本）からも見つかっている（Atwater et al., 2005）。北米の太平洋沿岸では、地質学的および年輪の証拠（樹木年輪年代学）により、約300年前に同震地盤沈下（coseismic subsidence）が起きたことが示されている。さらに、太平洋岸北西部の各地で見つかった津波堆積物は、この地震がかなりの規模の津波を発生させたことを示している。
+
+日本では、歴史記録（古文書）に、1〜5 m の高さを持つ広範囲な津波が太平洋沿岸を襲ったことが示されている。これらの記録から、この地震の発生日と規模（モーメントマグニチュード）は、それぞれ1700年1月26日、および $M_w = 8.7 - 9.2$ であると推定された（Satake et al., 1996, 2003）。
+
 #### 4.19.3.2.2 The seventeenth-century Hokkaido tsunami
-
-
 ##### 「Historical documents are ~ zone (Nanayama et al., 2003; Satake et al., 2008; Sawai et al., 2009).」
+日本の最北の島である北海道では、過去150年間の歴史記録（古文書）が限られている。しかし、津波堆積物は、千島海溝南部が、ここ数世紀の間に記録されたものよりも大規模な津波を繰り返し発生させてきたことを示している。近年に発生した1952年および2003年の十勝沖地震、あるいは1894年および1973年の根室半島沖地震（$M_w = 8$）による津波の浸水距離は海岸から 1 km 未満であったのに対し、先史時代の砂層（津波堆積物）は北海道の太平洋沿岸の 200 km に及ぶ区間にわたって、内陸 3 km も奥深くまで広がっている。この広大な砂層の堆積間隔は平均して約500年であり、最も新しいイベント（津波現象）は17世紀に発生した。広大な浸水域と長い回帰間隔（発生周期）を特徴とするこれらの特異な津波は、千島沈み込み帯の十勝沖および根室半島沖を含む、複数のセグメントが同時に連動して破壊された巨大地震によって最もよく説明される（Nanayama et al., 2003; Satake et al., 2008; Sawai et al., 2009）。
+
 #### 4.19.3.2.3 The 869 Jogan tsunami
 ##### 「The predecessor of Japan’s largest ~ The predecessor of Japan’s largest」
+日本最大の地震である2011年東北地方太平洋沖地震の「前身（かつての同等イベント）」は、869年に発生した貞観（じょうがん）地震であると考えられている。日本の正史（六国史）である『日本三代実録』には、この地震による激しい揺れ、地割れ、家屋の倒壊、そして無数の犠牲者が描写されている。また、津波が雷のような音を立てて押し寄せ、川に沿って城（多賀城）まで浸水したことも記述されている。浸水した地域は数百キロメートル（※当時の距離単位「百里」等の解釈を含む）に及び、1000人が溺死したと報告されている。さらに、沿岸低地の地質層からは津波堆積物が発見されており、仙台平野では現在の海岸線から 4 km よりも内陸で見つかっている（Minoura and Nakaya, 1991; Namegaya and Satake, 2014; Sawai et al., 2008）。これら津波堆積物の分布と計算された浸水域から、貞観地震の規模（$M = 8.3$ 以上）、震源位置、および断層モデルが提案され、同様の地震・津波の回帰間隔（発生周期）はおよそ500年から1000年の間であると推定されていた（Minoura et al., 2001; Sawai et al., 2012）。
+
 #### 4.19.3.2.4 Tsunami from the Storegga Slide
-##### 「The Storegga Slide in the Norwegian ~ The Storegga Slide in the Norwegian」
+##### 「The Storegga Slide in the Norwegian ~  Norway (Bondevik et al., 2005; Smith et al., 2004).」
+ノルウェー海で発生したストレッガ海底地すべり（Storegga Slide）は、これまでにマッピングされた中で最大の海底地すべりである。ストレッガ海底地すべりは、3万〜5万年前（$ka$）に1回、そして6000〜8000年前（$6 \sim 8 \, ka$）に2回の計3回発生したと推定されており、その総体積は $5.6 \times 10^3 \, \text{km}^3$ に達する（Bugge et al., 1988）。この巨大な海底地すべりは、十中八九（ほぼ確実に）津波を引き起こしたと考えられている。この地すべりに起因すると推測される津波堆積物は、スコットランド、アイスランド、およびノルウェーの沿岸で発見されている（Bondevik et al., 2005; Smith et al., 2004）。
 
 #### 4.19.3.2.5 Tsunami near the Cretaceous–Tertiary boundary
 ##### 「A global-scale impact tsunami ~ criticism about the interpretation of the tsunami’s origin (Keller, 2011)..」
+約6600万年前（$66 \, \text{Ma}$）の白亜紀・第三紀（$\text{K-T}$ 境界、現在は白亜紀・古第三紀または $\text{K-Pg}$ 境界として知られる）には、地球規模の天体衝突津波（インパクト津波）が発生したと考えられている（Schulte et al., 2010）。直径 10 km の小惑星が現在のメキシコ・ユカタン半島の縁に衝突し、チクシュルーブ・クレーター（直径約 $180 \, \text{km}$）を形成したことで、恐竜の絶滅を含む壊滅的な環境への影響と大量絶滅を引き起こした。当時、この衝突クレーターは海中に位置していたため、衝突によって津波が発生したことは確実である。テキサス州にある $\text{K-T}$ 境界の天体衝突に起因する津波堆積物は、津波の高さが $50 \, \text{m}$ 以上であったことを示唆しており（Bourgeois et al., 1988）、キューバで発見された海底津波堆積物の厚さは $100 \, \text{m}$ にも達していた（Goto et al., 2008）。しかし、この津波の起源に関する解釈については批判（異論）もある（Keller, 2011）。
 
 
 ## 4.19.4 Tsunami Observations
 ### 4.19.4.1 Instrumental Measurements
 #### 4.19.4.1.1 Coastal tsunami measurements
 ##### 「Coastal sea-level heights have been ~ sea-level change (Satake et al., 1988).」
+世界中の港湾に設置された検潮儀（tide gauges）によって、沿岸の海面水位（潮位）は1世紀以上にわたり測定されてきた。伝統的な検潮儀は、検潮井戸（tide well または stilling well）の内部に設置された機械式のものである。海面水位の変化は、井戸内の浮子（float）によって検知される。海洋潮汐の一般的な周期は数時間以上であるため、井戸の内部の海面水位変化は、井戸の外部の変化と同一であるとみなすことができる。しかし、より周期の短い（周期 $t < 5 \, \text{min}$）津波に対しては、このシステムが実際の海面水位変化に必ずしも追従するとは限らない（Satake et al., 1988）。
+
 ##### 「More recent gauges include pressure, ~ for continuous measurements.」
+より近年（最新）の検潮儀には、圧力式、音響式、およびレーダー式による測定技術が導入されている（Intergovernmental Oceanographic Commission, 2006）。気泡式（バブラー式）検潮儀は空気やガスを使用し、その圧力を測定することで水圧を推定する。圧力センサー式検潮儀は水圧を直接測定し、その水圧を海面水位の高さへと変換する。音響式検潮儀は海面で反射する超音波を送信し、その音波の往復時間（伝播時間）から海面水位の変化を測定することができる（Figure 7）。レーダー式検潮儀もこれと同様の原理を採用しているが、音響式検潮儀よりも温度変化の影響を受けにくく、その一方で連続測定における消費電力が大きい。
+
 ##### 「The Global Sea Level Observation ~ of at least 1 min is required.」
+国際的なプログラムであるグローバル海洋水位観測システム（Global Sea Level Observation System）は、気候変動、海洋学、および沿岸研究のための高品質な世界的海面水位ネットワークを構築するために設立された（Intergovernmental Oceanographic Commission, 2006）。このシステムは約300の検潮所（tide gauge stations）で構成されており、それらのデータはインターネットを通じてリアルタイムで利用可能である。海面水位測定の主な目的は海洋潮汐や長期的な海面水位変化を監視することであるため、一般的なサンプリング間隔は必ずしも津波監視に十分なほど短くはない。津波の測定（監視）には、少なくとも $t \le 1 \, \text{min}$ という高いサンプリングレート（時間分解能）が必要とされる。
 
 #### 4.19.4.1.2 Offshore tsunami measurements
 ##### 「As a tsunami becomes slow ~ monitor wave heights during storms.」
+津波は沿岸に近づくにつれて速度が低下する一方で、波高が巨大化し、さらに複雑な挙動を示すようになるため、沖合でその到来を検知することが理想的である。超音波を用いて水深（水位）や周期を測定する沖合波浪計が開発されてきた。日本周辺では、港湾の外側の水深数十メートルの場所に、約60基の波浪計が設置されている。さらに、通常は沖合約 $10 \, \text{km}$ 、水深約 $100 - 200 \, \text{m}$ の場所に、15基のGPS波浪計が設置されている（Kato et al., 2000）。これらの波浪計は、リアルタイムキネマティックGPS（RTK-GPS）技術を用いて水面の水平位置および標高を推定する（図7）。サンプリング間隔は $1 \, \text{s}$ で、精度は数センチメートルである。水面の運動を測定するため、海底水圧計とは異なり地震波（地動）の影響を受けず、暴風雨時における波高の監視にも使用することができる。
+
 #### 4.19.4.1.3 Deep-ocean measurements
 ##### 「In the deep ocean, tsunami ~ to separate them.」
+外洋の深海（deep ocean）では、津波の振幅（波高）は小さくなるものの、その波形はより単純になる（すなわち、沿岸の地形的な影響を受けない）と考えられている。津波の早期検知および警報の発令を目的として、海底水圧計（bottom pressure gauges）を用いた深海での津波測定が行われてきた。圧力センサーとしては、一般に水晶振動子センサー（quartz crystal sensor）が使用される。このセンサーは、水深 $6000 \, \text{m}$ において海面水位換算で $1 \, \text{cm}$ の精度を持つ。圧力変換器（トランスデューサー）は温度に対して非常に敏感であるため、温度の測定と補正が不可欠である。さらに、センサーは海底に設置されているため、地盤の運動（地動）も記録し、海底地震計（ocean-bottom seismograph）としても機能する。地震波と津波の周波数は通常異なっているものの、これらを分離することが必要となる。
+
 ##### 「The Deep-ocean Assessment and ~ in real time (Gonza ́lez et al., 2005a).」
-##### 「in real time (Gonza ́lez et al., 2005a). ~ 」
+
+##### 「in real time (Gonza ́lez et al., 2005a). ~ ここが変」
+
 ##### 「Around Japan, more than ten ~ pressure gauges (Section 4.19.2.2).」
+
 ##### 「Other types of sensors may ~ particle motions of water can be estimated.」
+
 #### 4.19.4.1.4 Satellite observations
 ##### 「Four satellites, which were ~ et al., 2006; Smith et al., 2005 (Section 4.19.2.1).」
+
 #### 4.19.4.1.5 Definition of amplitude and wave heights
 ##### 「A tsunami’s amplitude is measured ~ in Figure 8.」
+
 ### 4.19.4.2 Field Survey to Measure Tsunami Heights
 #### 4.19.4.2.1 Posttsunami surveys
 ##### 「Posttsunami field surveys are often ~ 11-year period between 1992 and 2002.」
+
 #### 4.19.4.2.2 Definitions of inundation and run-up heights
 ##### 「The height of a tsunami ~ is called the inundation distance (Figure 9).」
+
 ### 4.19.4.3 Study of Historical Documents
 ##### 「Tsunamis and their effects documented in ~ and Morocco (Baptista et al., 1998).」
+
 ##### 「Estimation of tsunami heights from ~ 80% for a 4 m inundation depth.」
+
 ### 4.19.4.4 Geologic Methods
 ##### 「Geologists have studied the ~ recurrence intervals (Chapters 4.21 and 4.22).」
+
 ##### 「Tsunami deposits are sedimentologically ~ depend on coastal topography and geology.」
+
 
 ### 4.19.4.5 Tsunami Magnitude Scales
 #### 4.19.4.5.1 Imamura–Iida scale (m)
