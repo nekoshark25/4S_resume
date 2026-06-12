@@ -1,6 +1,13 @@
+<div align="center">
+
 # S2特別演習 津波パート
+</div>
+
+---
+
 
 - [S2特別演習 津波パート](#s2特別演習-津波パート)
+- [1回目(0612)](#1回目0612)
   - [4.19.1 Introduction](#4191-introduction)
       - [「A tunami is a ~ far from its source」](#a-tunami-is-a--far-from-its-source)
         - [日本語訳](#日本語訳)
@@ -37,7 +44,78 @@
         - [「The 15 June 1896 Sanriku ~ in the last few centuries.」](#the-15-june-1896-sanriku--in-the-last-few-centuries)
         - [「The Sanriku coast also ~ outer-rise region (Kanamori, 1971).」](#the-sanriku-coast-also--outer-rise-region-kanamori-1971)
       - [4.19.3.1.7 The 1883 Krakatoa tsunami](#419317-the-1883-krakatoa-tsunami)
+- [2回目()](#2回目)
+    - [4.19.3.2 Prehistoric Tsunamis](#41932-prehistoric-tsunamis)
+      - [4.19.3.2.1 The 1700 Cascadia tsunami](#419321-the-1700-cascadia-tsunami)
+        - [「The Cascadia subduction ~ $M\_w$=8.7–9.2, respectively (Satake et al., 1996, 2003).」](#the-cascadia-subduction--m_w8792-respectively-satake-et-al-1996-2003)
+      - [4.19.3.2.2 The seventeenth-century Hokkaido tsunami](#419322-the-seventeenth-century-hokkaido-tsunami)
+        - [「Historical documents are ~ zone (Nanayama et al., 2003; Satake et al., 2008; Sawai et al., 2009).」](#historical-documents-are--zone-nanayama-et-al-2003-satake-et-al-2008-sawai-et-al-2009)
+      - [4.19.3.2.3 The 869 Jogan tsunami](#419323-the-869-jogan-tsunami)
+        - [「The predecessor of Japan’s largest ~ The predecessor of Japan’s largest」](#the-predecessor-of-japans-largest--the-predecessor-of-japans-largest)
+      - [4.19.3.2.4 Tsunami from the Storegga Slide](#419324-tsunami-from-the-storegga-slide)
+        - [「The Storegga Slide in the Norwegian ~ The Storegga Slide in the Norwegian」](#the-storegga-slide-in-the-norwegian--the-storegga-slide-in-the-norwegian)
+      - [4.19.3.2.5 Tsunami near the Cretaceous–Tertiary boundary](#419325-tsunami-near-the-cretaceoustertiary-boundary)
+        - [「A global-scale impact tsunami ~ criticism about the interpretation of the tsunami’s origin (Keller, 2011)..」](#a-global-scale-impact-tsunami--criticism-about-the-interpretation-of-the-tsunamis-origin-keller-2011)
+  - [4.19.4 Tsunami Observations](#4194-tsunami-observations)
+    - [4.19.4.1 Instrumental Measurements](#41941-instrumental-measurements)
+      - [4.19.4.1.1 Coastal tsunami measurements](#419411-coastal-tsunami-measurements)
+        - [「Coastal sea-level heights have been ~ sea-level change (Satake et al., 1988).」](#coastal-sea-level-heights-have-been--sea-level-change-satake-et-al-1988)
+        - [「More recent gauges include pressure, ~ for continuous measurements.」](#more-recent-gauges-include-pressure--for-continuous-measurements)
+        - [「The Global Sea Level Observation ~ of at least 1 min is required.」](#the-global-sea-level-observation--of-at-least-1-min-is-required)
+      - [4.19.4.1.2 Offshore tsunami measurements](#419412-offshore-tsunami-measurements)
+        - [「As a tsunami becomes slow ~ monitor wave heights during storms.」](#as-a-tsunami-becomes-slow--monitor-wave-heights-during-storms)
+      - [4.19.4.1.3 Deep-ocean measurements](#419413-deep-ocean-measurements)
+        - [「In the deep ocean, tsunami ~ to separate them.」](#in-the-deep-ocean-tsunami--to-separate-them)
+        - [「The Deep-ocean Assessment and ~ in real time (Gonza ́lez et al., 2005a).」](#the-deep-ocean-assessment-and--in-real-time-gonza-́lez-et-al-2005a)
+        - [「in real time (Gonza ́lez et al., 2005a). ~ 」](#in-real-time-gonza-́lez-et-al-2005a--)
+        - [「Around Japan, more than ten ~ pressure gauges (Section 4.19.2.2).」](#around-japan-more-than-ten--pressure-gauges-section-41922)
+        - [「Other types of sensors may ~ particle motions of water can be estimated.」](#other-types-of-sensors-may--particle-motions-of-water-can-be-estimated)
+      - [4.19.4.1.4 Satellite observations](#419414-satellite-observations)
+        - [「Four satellites, which were ~ et al., 2006; Smith et al., 2005 (Section 4.19.2.1).」](#four-satellites-which-were--et-al-2006-smith-et-al-2005-section-41921)
+      - [4.19.4.1.5 Definition of amplitude and wave heights](#419415-definition-of-amplitude-and-wave-heights)
+        - [「A tsunami’s amplitude is measured ~ in Figure 8.」](#a-tsunamis-amplitude-is-measured--in-figure-8)
+    - [4.19.4.2 Field Survey to Measure Tsunami Heights](#41942-field-survey-to-measure-tsunami-heights)
+      - [4.19.4.2.1 Posttsunami surveys](#419421-posttsunami-surveys)
+        - [「Posttsunami field surveys are often ~ 11-year period between 1992 and 2002.」](#posttsunami-field-surveys-are-often--11-year-period-between-1992-and-2002)
+      - [4.19.4.2.2 Definitions of inundation and run-up heights](#419422-definitions-of-inundation-and-run-up-heights)
+        - [「The height of a tsunami ~ is called the inundation distance (Figure 9).」](#the-height-of-a-tsunami--is-called-the-inundation-distance-figure-9)
+    - [4.19.4.3 Study of Historical Documents](#41943-study-of-historical-documents)
+        - [「Tsunamis and their effects documented in ~ and Morocco (Baptista et al., 1998).」](#tsunamis-and-their-effects-documented-in--and-morocco-baptista-et-al-1998)
+        - [「Estimation of tsunami heights from ~ 80% for a 4 m inundation depth.」](#estimation-of-tsunami-heights-from--80-for-a-4-m-inundation-depth)
+    - [4.19.4.4 Geologic Methods](#41944-geologic-methods)
+        - [「Geologists have studied the ~ recurrence intervals (Chapters 4.21 and 4.22).」](#geologists-have-studied-the--recurrence-intervals-chapters-421-and-422)
+        - [「Tsunami deposits are sedimentologically ~ depend on coastal topography and geology.」](#tsunami-deposits-are-sedimentologically--depend-on-coastal-topography-and-geology)
+    - [4.19.4.5 Tsunami Magnitude Scales](#41945-tsunami-magnitude-scales)
+      - [4.19.4.5.1 Imamura–Iida scale (m)](#419451-imamuraiida-scale-m)
+        - [「 ~ 」](#--)
+        - [「 ~ 」](#---1)
+        - [「 ~ 」](#---2)
+        - [「 ~ 」](#---3)
+        - [「 ~ 」](#---4)
+        - [「 ~ 」](#---5)
+        - [「 ~ 」](#---6)
+        - [「 ~ 」](#---7)
+        - [「 ~ 」](#---8)
+        - [「 ~ 」](#---9)
+        - [「 ~ 」](#---10)
+        - [「 ~ 」](#---11)
+        - [「 ~ 」](#---12)
+        - [「 ~ 」](#---13)
+        - [「 ~ 」](#---14)
+        - [「 ~ 」](#---15)
+        - [「 ~ 」](#---16)
+        - [「 ~ 」](#---17)
+        - [「 ~ 」](#---18)
+        - [「 ~ 」](#---19)
+        - [「 ~ 」](#---20)
+        - [「 ~ 」](#---21)
+        - [「 ~ 」](#---22)
+        - [「 ~ 」](#---23)
+        - [「 ~ 」](#---24)
 
+---
+
+# 1回目(0612)
 ## 4.19.1 Introduction
 
 #### 「A tunami is a ~ far from its source」
@@ -119,16 +197,88 @@
 #### 4.19.3.1.7 The 1883 Krakatoa tsunami
 1883年のクラカトア（インドネシア）の噴火は、人類の歴史において記録された最大規模の火山噴火の一つです。この噴火によって発生した音波（爆発音）は、インド洋を越えて4000キロメートル以上離れた場所からでも聞こえるほどでした。その噴火はクラカトア島の姿（地形）を一変させ、島の北部があった場所は最大水深270メートルに達するカルデラへと置き換わりました。また、噴火は周辺の沿岸の村々を破壊する津波を発生させ、約34,000人もの命を奪いました（シムキンおよびフィスケ、1983年）。スンダ海峡沿いでの最大津波高は約15メートル（※諸説あり、局所的には40m近くに達した場所もあります）であり、津波の波形はバタビア（現在のジャカルタ）の検潮儀によって記録されました。カルデラの陥没、海底爆発、火砕流といった、さまざまなタイプの火山活動による津波の発生メカニズムが提案されています（前野および今村、2011年；ノマンボイおよび佐竹、1995年；横山、1987年）。インド、ニュージーランド、さらにはサンフランシスコの検潮儀でも海面変動（乱れ）が観測されましたが、これらのきわめて遠方で観測された変動は、噴火による大気波（空振）と結合した海洋波（気象津波）であると解釈されています（ペリノフスキーほか、2005年；プレスおよびハークライダー、1966年）
 
+# 2回目()
+### 4.19.3.2 Prehistoric Tsunamis
+
+#### 4.19.3.2.1 The 1700 Cascadia tsunami
+##### 「The Cascadia subduction ~ $M_w$=8.7–9.2, respectively (Satake et al., 1996, 2003).」
+#### 4.19.3.2.2 The seventeenth-century Hokkaido tsunami
 
 
+##### 「Historical documents are ~ zone (Nanayama et al., 2003; Satake et al., 2008; Sawai et al., 2009).」
+#### 4.19.3.2.3 The 869 Jogan tsunami
+##### 「The predecessor of Japan’s largest ~ The predecessor of Japan’s largest」
+#### 4.19.3.2.4 Tsunami from the Storegga Slide
+##### 「The Storegga Slide in the Norwegian ~ The Storegga Slide in the Norwegian」
+
+#### 4.19.3.2.5 Tsunami near the Cretaceous–Tertiary boundary
+##### 「A global-scale impact tsunami ~ criticism about the interpretation of the tsunami’s origin (Keller, 2011)..」
 
 
+## 4.19.4 Tsunami Observations
+### 4.19.4.1 Instrumental Measurements
+#### 4.19.4.1.1 Coastal tsunami measurements
+##### 「Coastal sea-level heights have been ~ sea-level change (Satake et al., 1988).」
+##### 「More recent gauges include pressure, ~ for continuous measurements.」
+##### 「The Global Sea Level Observation ~ of at least 1 min is required.」
+
+#### 4.19.4.1.2 Offshore tsunami measurements
+##### 「As a tsunami becomes slow ~ monitor wave heights during storms.」
+#### 4.19.4.1.3 Deep-ocean measurements
+##### 「In the deep ocean, tsunami ~ to separate them.」
+##### 「The Deep-ocean Assessment and ~ in real time (Gonza ́lez et al., 2005a).」
+##### 「in real time (Gonza ́lez et al., 2005a). ~ 」
+##### 「Around Japan, more than ten ~ pressure gauges (Section 4.19.2.2).」
+##### 「Other types of sensors may ~ particle motions of water can be estimated.」
+#### 4.19.4.1.4 Satellite observations
+##### 「Four satellites, which were ~ et al., 2006; Smith et al., 2005 (Section 4.19.2.1).」
+#### 4.19.4.1.5 Definition of amplitude and wave heights
+##### 「A tsunami’s amplitude is measured ~ in Figure 8.」
+### 4.19.4.2 Field Survey to Measure Tsunami Heights
+#### 4.19.4.2.1 Posttsunami surveys
+##### 「Posttsunami field surveys are often ~ 11-year period between 1992 and 2002.」
+#### 4.19.4.2.2 Definitions of inundation and run-up heights
+##### 「The height of a tsunami ~ is called the inundation distance (Figure 9).」
+### 4.19.4.3 Study of Historical Documents
+##### 「Tsunamis and their effects documented in ~ and Morocco (Baptista et al., 1998).」
+##### 「Estimation of tsunami heights from ~ 80% for a 4 m inundation depth.」
+### 4.19.4.4 Geologic Methods
+##### 「Geologists have studied the ~ recurrence intervals (Chapters 4.21 and 4.22).」
+##### 「Tsunami deposits are sedimentologically ~ depend on coastal topography and geology.」
+
+### 4.19.4.5 Tsunami Magnitude Scales
+#### 4.19.4.5.1 Imamura–Iida scale (m)
+##### 「 ~ 」
+
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+
+##### 「 ~ 」
 
 
+##### 「 ~ 」
 
-
-
-
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
+##### 「 ~ 」
 
 
 
