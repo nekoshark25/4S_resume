@@ -1,0 +1,107 @@
+<div align="center">
+
+# Sup1(tsunami) 数式パート
+</div>
+
+---
+
+## Problem1
+式1.15を導出するために必要な仮定は以下の通り
+1. 長波近似：$\lambda\gg d\qquad(d\text{：depth})$
+2. 静水圧近似：$\dfrac{\partial p}{\partial z}=\rho g$
+3. 微小振幅：$h\ll d$
+4. 非線形項の無視
+5. 非圧縮流体：$\rho=const.$
+6. 水深一定：$d=const.$
+
+
+
+## Problem2
+誤差$e\times100\%$は以下のように書ける。
+$$
+\begin{aligned}
+    e&=\dfrac{\sqrt{gd}-\sqrt{\frac{g\lambda}{2\pi}\tanh\frac{2\pi d}{\lambda}}}{\sqrt{\frac{g\lambda}{2\pi}\tanh\frac{2\pi d}{\lambda}}}\\
+    \therefore~~e+1&=\sqrt{\dfrac{2\pi d}{\lambda\tanh\frac{2\pi d}{\lambda}}}=\sqrt{\dfrac{\xi}{\tanh\xi}}\qquad\left(\because\xi\equiv\dfrac{2\pi d}{\lambda} \right)
+\end{aligned}
+$$
+
+```{python}
+import numpy as np
+import matplotlib.pyplot as plt
+
+p = np.array([0.01, 0.05, 0.10])
+d = np.array([3000, 100])
+
+# 【修正1】波長(lamda)の最大値を 1,000 から 100,000 に広げました
+lamda = np.linspace(0.1, 100000, 10000)
+catch = []
+
+for i in range(len(d)):
+    for j in range(len(p)):
+        xi = 2 * np.pi * d[i] / lamda
+        f = np.sqrt(xi / np.tanh(xi)) - 1
+        
+        # 【修正2】ループのたびに c を 0 にリセットします
+        c = 0
+        for k in range(len(xi)):
+            if f[k] <= p[j]:
+                c = xi[k]
+                break # 条件に合う一番最初の xi を見つけたらループを抜けます
+                
+        catch.append(2 * np.pi * d[i] / c)
+catch = np.array(catch)
+
+print(catch)
+
+```
+
+|$d \backslash p$|0.01|0.05|0.1|
+|---|---|---|---|
+|3000|76607.68415842|33653.43168317|23262.4029703|
+|100|2560.35346535|1130.21188119| 780.17722772|
+
+
+## Problem3
+$$
+\begin{aligned}
+    \begin{cases}
+        \lambda_{\text{min}}=2\pi\sqrt{\dfrac{\sigma}{\rho g}}\\
+        c_\text{min}=\sqrt[4]{\dfrac{4g\sigma}{\rho}}
+    \end{cases}
+\end{aligned}
+$$
+
+```{python}
+
+import math
+sigma = 7.3 * 10 ** (-2)
+g = 9.8
+rho = 1000 
+lamda = 2 * math.pi * math.sqrt(sigma / (rho * g))
+c = (4 * g * sigma / rho) ** (1 / 4)
+print(lamda, c)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
